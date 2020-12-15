@@ -3,8 +3,10 @@ package com.teamtreehouse.jobs.model;
 import com.google.api.client.util.Key;
 
 public class Job {
+
   @Key
   private String jobtitle;
+
 
   @Key
   private String company;
